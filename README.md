@@ -116,7 +116,7 @@ deletefiles - To delete files by their names
 </details>
 
 
-### 🥳 CREDIT
+### 💞 CREDIT
 
 <details><summary>Tap On Me For Credit</summary>
 
@@ -128,13 +128,10 @@ deletefiles - To delete files by their names
 💖 [Silicon](https://github.com/Silicon-Developer) for web app feature.
 </details>
 
-### 💕 CONTACT DEVELOPER
 
-- [Rahul](https://telegram.me/TechifySupport)
+### 😇 [SUPPORT](https://techifybots.github.io/PayWeb)
 
-### ☕ BUY ME A COFFEE
-- [PayPal](https://paypal.me/TechifyBots)
-- [UPI](https://TechifyBots.github.io/Donate)
+### 🥳 [CONTACT DEVELOPER](https://telegram.me/TechifySupport)
 
 ### 📌 NOTE
 
