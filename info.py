@@ -26,7 +26,7 @@ USERNAME = environ.get('USERNAME', 'https://telegram.me/Sandymaiwait')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002433610423'))
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002694840394').split()]
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Sandy2:Sandy2@cluster0.71n6ahq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://Sandy2:Sandy2@cluster0.71n6ahq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://Sandy4:Sandy4@cluster0.ogfoxmb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Rahul")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Rahul')
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002534471850'))
@@ -50,8 +50,8 @@ SHORTENER_API2 = environ.get("SHORTENER_API2", "df6b7a6ced3c648afba04c65bf28ec9a
 SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "linkcents.com")
 SHORTENER_API3 = environ.get("SHORTENER_API3", "61e244281d3db2db29aee3180f7fa663dfbc18f2")
 SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "curturl.com")
-TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "3600"))
-THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "21600"))
+TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "300"))
+THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "7200"))
 
 # languages search
 LANGUAGES = ["hindi", "english", "telugu", "tamil", "kannada", "malayalam"]
