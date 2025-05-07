@@ -104,7 +104,7 @@ User - {}"""
 •─────•─────────•─────•
 
 
-✨ ᴜᴘɪ ɪᴅ - <code>TechifyBots@UPI</code>
+✨ ᴜᴘɪ ɪᴅ - <code>lamasandeep821@okicici</code>
 
 ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ  /myplan
 
